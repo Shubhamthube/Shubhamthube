@@ -1,5 +1,4 @@
 👋 Hi, I’m @Shubhamthube
-👀 I’m interested in DATA Science
 🌱 I’m currently learning Data Science
 💞️ 
 
